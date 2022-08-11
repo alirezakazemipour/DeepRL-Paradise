@@ -25,3 +25,6 @@
 [submodule "Continuous-PPO"]
 	path = Continuous-PPO
 	url = https://github.com/alirezakazemipour/Continuous-PPO
+[submodule "DDPG-HER"]
+	path = DDPG-HER
+	url = https://github.com/alirezakazemipour/DDPG-HER
