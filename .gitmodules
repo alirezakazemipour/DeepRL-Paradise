@@ -7,3 +7,6 @@
 [submodule "TD3"]
 	path = TD3
 	url = https://github.com/alirezakazemipour/TD3-PyTorch
+[submodule "A3C-ACER"]
+	path = A3C-ACER
+	url = https://github.com/alirezakazemipour/A3C-ACER-PyTorch
