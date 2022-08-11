@@ -22,3 +22,6 @@
 [submodule "Discrete-PPO"]
 	path = Discrete-PPO
 	url = https://github.com/alirezakazemipour/Discrete-PPO
+[submodule "Continuous-PPO"]
+	path = Continuous-PPO
+	url = https://github.com/alirezakazemipour/Continuous-PPO
