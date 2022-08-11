@@ -1,0 +1,3 @@
+[submodule "TRPO"]
+	path = TRPO
+	url = https://github.com/alirezakazemipour/TRPO-PyTorch
