@@ -1,3 +1,6 @@
 [submodule "TRPO"]
 	path = TRPO
 	url = https://github.com/alirezakazemipour/TRPO-PyTorch
+[submodule "ACKTR"]
+	path = ACKTR
+	url = https://github.com/alirezakazemipour/ACKTR-PyTorch
