@@ -4,3 +4,6 @@
 [submodule "ACKTR"]
 	path = ACKTR
 	url = https://github.com/alirezakazemipour/ACKTR-PyTorch
+[submodule "TD3"]
+	path = TD3
+	url = https://github.com/alirezakazemipour/TD3-PyTorch
