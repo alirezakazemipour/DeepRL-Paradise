@@ -19,3 +19,6 @@
 [submodule "Rainbow"]
 	path = Rainbow
 	url = https://github.com/alirezakazemipour/Rainbow
+[submodule "Discrete-PPO"]
+	path = Discrete-PPO
+	url = https://github.com/alirezakazemipour/Discrete-PPO
