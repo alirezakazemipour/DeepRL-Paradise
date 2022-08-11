@@ -28,3 +28,6 @@
 [submodule "DDPG-HER"]
 	path = DDPG-HER
 	url = https://github.com/alirezakazemipour/DDPG-HER
+[submodule "Discrete-SAC"]
+	path = Discrete-SAC
+	url = https://github.com/alirezakazemipour/Discrete-SAC-PyTorch
