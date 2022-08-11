@@ -10,3 +10,6 @@
 [submodule "A3C-ACER"]
 	path = A3C-ACER
 	url = https://github.com/alirezakazemipour/A3C-ACER-PyTorch
+[submodule "Distributional-RL"]
+	path = Distributional-RL
+	url = https://github.com/alirezakazemipour/Distributional-RL
