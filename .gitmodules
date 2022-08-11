@@ -13,3 +13,6 @@
 [submodule "Distributional-RL"]
 	path = Distributional-RL
 	url = https://github.com/alirezakazemipour/Distributional-RL
+[submodule "PPO-RND"]
+	path = PPO-RND
+	url = https://github.com/alirezakazemipour/PPO-RND
