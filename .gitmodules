@@ -31,3 +31,6 @@
 [submodule "Discrete-SAC"]
 	path = Discrete-SAC
 	url = https://github.com/alirezakazemipour/Discrete-SAC-PyTorch
+[submodule "A2C-SIL"]
+	path = A2C-SIL
+	url = https://github.com/alirezakazemipour/A2C-SIL-TF2
