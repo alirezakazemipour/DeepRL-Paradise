@@ -41,3 +41,6 @@
 [submodule "Mario-PPO"]
 	path = Mario-PPO
 	url = https://github.com/alirezakazemipour/Mario-PPO
+[submodule "Continuous-SAC"]
+	path = Continuous-SAC
+	url = https://github.com/alirezakazemipour/SAC
