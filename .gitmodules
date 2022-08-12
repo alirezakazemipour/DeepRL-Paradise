@@ -38,3 +38,6 @@
     path = DIAYN
     url = https://github.com/alirezakazemipour/DIAYN-PyTorch
 
+[submodule "Mario-PPO"]
+	path = Mario-PPO
+	url = https://github.com/alirezakazemipour/Mario-PPO
