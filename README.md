@@ -4,4 +4,4 @@ My old self passionately said:
 > Each directory refers you to the corresponding repository that the algorithm has been put together. I would be more than happy to have your thoughts in the _issues_ section of this repository or on the corresponding algorithm's repo.
 
 After reading [Empirical Design in Reinforcement Learning](https://arxiv.org/abs/2304.01315), I say:
-> Of all issues that the repos possess, they show some results only for a single seed! 😲 So don't take the repos very seriously unless you test them for some a handful number of seeds!
+> Of all issues that the repos possess, they show some results only for a single seed! 😲 So don't take the repos very seriously unless you test them for a handful number of seeds!
